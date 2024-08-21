@@ -112,3 +112,6 @@ docs/public/
 
 # Patch generation
 .moz-central
+
+# nix-direnv
+.direnv/
